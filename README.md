@@ -1,8 +1,6 @@
 <h1 align="left">Oiê, meu nome é Geovana!</h1>
 
 <h5 align="left">
-- Sou apaixonada por games e gatinhos <br>
-- Sou estudante e atualmente estou trabalhando em um site sobre bem-estar e saúde mental, inspirado no impacto dos jogos <br>
 - Desenvolvendo habilidades em front-end e back-end <br>
 </h5>
 
